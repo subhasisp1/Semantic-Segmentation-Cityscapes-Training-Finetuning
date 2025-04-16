@@ -47,7 +47,9 @@ Validation set predictions include:
 - Ground truth mask
 - Predicted mask
 
-See the report or notebooks for visualizations.
+See the report or notebooks for visualizations.One sample visualization is as follows:
+![outputs](https://github.com/user-attachments/assets/fb5e9a80-c71c-407b-a277-993009053927)
+
 
 ---
 
