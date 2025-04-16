@@ -1,7 +1,7 @@
 # Semantic-Segmentation-Cityscapes-Training/Finetuning
 # UNet Model for Semantic Segmentation
 
-This repository contains the implementation, training, and fine-tuning of a UNet model for semantic segmentation on the Cityscapes dataset. It includes:
+This repository contains the implementation, training, and fine-tuning of a UNet model for semantic segmentation on the Cityscapes dataset after preprocessing. It includes:
 
 - Training from scratch using a clean UNet implementation.
 - Fine-tuning with class imbalance handling and augmentation strategies.
