@@ -1,0 +1,22 @@
+[project]
+name = "unet-segmentation"
+version = "0.1.0"
+description = "UNet model training and fine-tuning for semantic segmentation"
+authors = [
+    { name="Subhasis Panda", email="example@example.com" }
+]
+requires-python = ">=3.8"
+
+dependencies = [
+    "torch>=1.12.0",
+    "torchvision>=0.13.0",
+    "numpy>=1.21.0",
+    "opencv-python>=4.5.5",
+    "Pillow>=9.0.0",
+    "matplotlib>=3.5.0",
+    "tqdm>=4.62.3",
+    "wandb>=0.13.0"
+]
+
+[tool.uv]
+# Optional: enable uv-specific configurations
