@@ -1,1 +1,1 @@
-# Semantic-Segmentation-Cityscapes-Training-Finetuning
+# Semantic-Segmentation-Cityscapes-Training/Finetuning
