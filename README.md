@@ -88,7 +88,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Preprocess the data
-python preprocessing/resize_and_normalize.py
+python preprocessing/Image_segmentation_Preprocessing (1).py
 
 # 5. Launch training notebooks
 jupyter notebook notebooks/Model_Training_UNet_From_scratch.ipynb
