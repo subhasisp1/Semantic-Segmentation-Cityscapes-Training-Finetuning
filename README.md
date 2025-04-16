@@ -24,7 +24,7 @@ We use the **UNet** architecture, chosen for its ability to capture both spatial
 ##  Model Training & Fine-Tuning
 
 ###  Training from Scratch
-Trained on preprocessed Cityscapes images using standard `CrossEntropyLoss`. Basic data augmentation was applied. Logs and metrics were recorded using **Weights & Biases (WandB)**.
+Trained on preprocessed Cityscapes images using standard `CrossEntropyLoss`. Basic data augmentation was applied.
 
 ###  Fine-Tuning Strategies
 
